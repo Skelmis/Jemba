@@ -90,7 +90,10 @@ async def list_rules(inter: disnake.CommandInteraction):
         await inter.channel.send(embeds=embeds)
 
 
-@bot.slash_command()
+@bot.slash_command(
+    guild_ids=[741088737844264990],
+    description="About me.",
+)
 async def about(inter: disnake.CommandInteraction):
     await inter.send(
         f"Jemba rules, digitalized.\nhttps://github.com/Skelmis/Jemba", ephemeral=True
