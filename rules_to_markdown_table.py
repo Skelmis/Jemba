@@ -66,6 +66,7 @@ def generate_nested_tables():
     for key, value in data.items():
         file.write(f"### {key.title()}\n")
         file.write(generate_table(value))
+        file.write("\nBack to [top](#top)\n\n")
         file.write("---\n")
 
     with open("jemba_rules.md", "w") as f:
