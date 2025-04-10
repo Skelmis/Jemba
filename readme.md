@@ -9,3 +9,5 @@ Rules:
 - 5 pieces per layer
 - Pull a piece, do what the rule states.
 - Rinse and repeat until the tower falls
+
+The rules are live [here](https://skelmis.co.nz/jemba)
