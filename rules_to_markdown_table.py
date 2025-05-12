@@ -68,10 +68,6 @@ def generate_nested_tables():
 
     data = defaultdict(list)
     for k, v in flattened_raw_data.items():
-        if k.startswith("#"):
-            # Ignore comment line
-            continue
-
         data[k[0].lower()].append([k, v])
 
     file.write(generate_index(list(data.keys()), width=5))
@@ -85,6 +81,10 @@ def generate_nested_tables():
 
     with open("jemba_rules.md", "w") as f:
         f.write(file.getvalue())
+
+    print(
+        f"Wrote {len(flattened_raw_data.keys())} rules out. Jemba requires 108 for a full game."
+    )
 
 
 generate_nested_tables()
