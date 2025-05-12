@@ -5,6 +5,7 @@ Bipolar = "The picker must swap seats with another player, thereby changing the 
 "Bye bye" = 'The person who pulled this piece needs to drink three times and say "bye bye" after every drink'
 "Catch up" = "The player who arrived last to the party must drink once"
 "Centre place" = "The person who pulled this piece cannot take an edge piece for the remainder of the game"
+Chaos = "Until it is the pickers next turn, all players must take a piece with each hand simultaneously"
 "Cheap skate" = "The person who pulled this gets to take a sip of someone else's drink"
 Chef = "Those who cooked a meal tonight drink once"
 "Chinese whispers" = "Play chinese whispers, where the message passed along is a players name. Whoever's name the last person hears, must drink"
