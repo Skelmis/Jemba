@@ -1,7 +1,7 @@
 [rules.generic]
 Alcoholic = "The person who pulled this piece must finish a glass of water before their next turn"
 Babysitters = "Anyone who has a client facing job"
-Bipolar = "The picker must swap seats with another player, thereby changing the order of the game"
+Bipolar = "The picker must swap seats with another player, thereby changing the order of the game. The next person will be the person after the pickers new location"
 "Bottoms up" = "Everyone else playing the game besides the picker drinks four times"
 "Bye bye" = 'The person who pulled this piece needs to drink four times and say "bye bye" after every drink'
 "Catch up" = "The player who cam last to the party must drink once"
