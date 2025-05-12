@@ -1,5 +1,6 @@
 import io
 import json
+import tomllib
 from collections import defaultdict
 
 
@@ -53,11 +54,24 @@ def generate_table(data: list[tuple[str, str]]) -> str:
 
 def generate_nested_tables():
     file = io.StringIO()
-    with open("jemba_rules.json", "r") as f:
-        raw_data = json.load(f)
+    # with open("jemba_rules.json", "r") as f:
+    #     raw_data = json.load(f)
+
+    with open("rules.toml", "r") as f:
+        raw_data = tomllib.loads(f.read())
+
+    flattened_raw_data = {}
+    for category in raw_data.values():
+        for rule in category.values():
+            for k, v in rule.items():
+                flattened_raw_data[k] = v
 
     data = defaultdict(list)
-    for k, v in raw_data.items():
+    for k, v in flattened_raw_data.items():
+        if k.startswith("#"):
+            # Ignore comment line
+            continue
+
         data[k[0].lower()].append([k, v])
 
     file.write(generate_index(list(data.keys()), width=5))

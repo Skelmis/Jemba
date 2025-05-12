@@ -9,12 +9,12 @@
 ### A
 |Name|Rule|
 |----|----|
-|Alcoholic|The person who pulled this piece must finish a glass of water before their next turn|
-|Android|Those with an android phone drink once|
+|Alcoholic|Keys prefixed with # are considered comments and removed. Makes reading this file easier|
 |Andy|All players vote on the most sober player, and they must take one drink|
-|Anton|Any player taller than Chris (inclusive) must drink|
-|Apple|Those with an apple phone drink once|
 |Automatic|Those who drive an automatic vehicle must drink once|
+|Anton|Any player taller than the picker must drink|
+|Android|Those with an android phone drink once|
+|Apple|Those with an apple phone drink once|
 
 Back to [top](#top)
 
@@ -123,8 +123,8 @@ Back to [top](#top)
 ### K
 |Name|Rule|
 |----|----|
-|Katy|Any player in the game who is shorter than Chris (inclusive)|
 |Kayak|The picker chooses someone to play in Rock, Paper, Scissors. The loser must drink double every time they drink for the rest of the game|
+|Katy|Any player in the game who is shorter than the picker must drink|
 
 Back to [top](#top)
 
