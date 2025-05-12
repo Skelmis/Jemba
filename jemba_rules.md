@@ -1,9 +1,9 @@
 ||||||
 |-|-|-|-|-|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|
-|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[K](#k)|
-|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|
-|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[V](#v)|
+|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[F](#f)|
+|[G](#g)|[H](#h)|[I](#i)|[K](#k)|[L](#l)|
+|[M](#m)|[N](#n)|[O](#o)|[P](#p)|[Q](#q)|
+|[R](#r)|[S](#s)|[T](#t)|[V](#v)|[U](#u)|
 |[W](#w)|[Y](#y)|[Z](#z)|
 
 ### A
@@ -23,9 +23,8 @@ Back to [top](#top)
 |Name|Rule|
 |----|----|
 |Babysitters|Anyone who has a client facing job|
-|Bipolar|The picker must swap seats with another player, thereby changing the order of the game|
-|Bottoms Up|Everyone else playing the game besides the picker drinks four times|
-|Bye Bye|The person who pulled this piece needs to drink four times and say "bye bye" after every drink|
+|Bipolar|The picker must swap seats with another player, thereby changing the order of the game. The next person will be the person after the pickers new location|
+|Bye Bye|The person who pulled this piece needs to drink three times and say "bye bye" after every drink|
 
 Back to [top](#top)
 
@@ -33,17 +32,16 @@ Back to [top](#top)
 ### C
 |Name|Rule|
 |----|----|
-|Catch Up|The player who cam last to the party must drink once|
+|Catch Up|The player who arrived last to the party must drink once|
 |Centre Place|The person who pulled this piece cannot take an edge piece for the remainder of the game|
+|Chaos|Until it is the pickers next turn, all players must take a piece with each hand simultaneously|
 |Cheap Skate|The person who pulled this gets to take a sip of someone else's drink|
 |Chef|Those who cooked a meal tonight drink once|
 |Chinese Whispers|Play chinese whispers, where the message passed along is a players name. Whoever's name the last person hears, must drink|
 |Cj'S Rule|The player who pulled this must play the remainder of the game from the floor|
-|Clothes Swap|The person who pulled this piece must swap one item of clothing with the person to their right. Or the picker can drink three times|
-|Codeword|The person who pulled this chooses a word without telling anyone, and if that word is spoken by another player, the picker will destroy the tower and drink for it|
+|Clothes Swap|The person who pulled this piece must swap one item of clothing with the person to their right or the picker can drink four times|
 |Community Parking|Create a king's cup for the person who knocks over the tower to finish. This is instead of them needing to finish their own drink|
-|Cone Zone|The picker puts a traffic cone on their head for the remainder of the game|
-|Construction Zone|Balance this brick on your head until you complete your next turn|
+|Construction Zone|Balance this brick on your head until you complete your next turn. If it falls drink three times|
 |Couch Potato|Every player who did not cook tonight must drink once|
 |Castaway|The picker chooses an item to bring with them if they got stranded on an island. The group votes on if it's passable or not (open to interpretation). If not, picker drinks 3 times|
 |Catcall|The picker must ask a question to the group, and everyone playing gets to vote on who they think it relates to the most (E.g. who is the most drunk?). If the picker does not come up with a question, they must drink three times|
@@ -61,19 +59,11 @@ Back to [top](#top)
 |Double Or Nothing|Take another piece from the same layer or drink three times|
 |Double Play|Whoever pulled this piece chooses another player to drink double whatever the picker drinks for the remainder of the game|
 |Dr Seuss|The picker must make a two line poem, where one of the rhyming words is the player's name. If they fail, drink twice|
-|Drink 1|You must take one drink|
+|Drink 1|You must drink once|
 |Drink 2|You must drink twice|
 |Drink 3|You must drink three times|
 |Driver'S Ed|Players without their full license must drink|
 |Democracy|Vote as a group on someone to drink four times|
-
-Back to [top](#top)
-
----
-### E
-|Name|Rule|
-|----|----|
-|Everyone Drinks|Every player in the game drinks once|
 
 Back to [top](#top)
 
@@ -90,7 +80,7 @@ Back to [top](#top)
 |Name|Rule|
 |----|----|
 |Gambler|The picker tells the previous player if they think the next player will choose an outside or inside piece (in confidence). If they are wrong, the picker drinks. If they are correct, the next player drinks on top of their new piece|
-|Govt Employee|Those who receive Government funds must drink once|
+|Govt Employee|Anyone who can't work from home must drink once|
 |Grandad|Players older than the picker must drink|
 
 Back to [top](#top)
@@ -100,7 +90,7 @@ Back to [top](#top)
 |Name|Rule|
 |----|----|
 |Hand Switch|You must play the remainder of the game using the other hand than the one you used to pull this piece|
-|Hosts|Those hosting the party must drink three times|
+|Hosts|Those hosting the party must drink twice times|
 
 Back to [top](#top)
 
@@ -129,7 +119,8 @@ Back to [top](#top)
 ### L
 |Name|Rule|
 |----|----|
-|Lava Land|The floor is lava for every other player until it is the pickers turn again|
+|Land Mine|The picker must take the two nearest adjacent pieces on the same level as this one. If only one adjacent piece exists, take that|
+|Lava Land|The floor is lava for every player until it is the pickers turn again|
 
 Back to [top](#top)
 
@@ -138,7 +129,7 @@ Back to [top](#top)
 |Name|Rule|
 |----|----|
 |Make A Rule|The person who pulled this piece gets to make a rule that every other player will follow until this piece is pulled again|
-|Man Of God|Take a full layer of the tower within three turns of pulling this piece or finish their drink|
+|Man Of God|Take a full layer of the tower within three turns of pulling this piece or finish your drink|
 |Manual|All players who drive a manual vehicle must drink once|
 
 Back to [top](#top)
@@ -174,7 +165,7 @@ Back to [top](#top)
 ### Q
 |Name|Rule|
 |----|----|
-|Quiz Time|Picker states an assumption about another player. If correct the person chosen drinks, if not, the picker drinks|
+|Quiz Time|The picker asks a question, first person to get the correct answer may give two drinks out to the other players|
 
 Back to [top](#top)
 
@@ -183,7 +174,7 @@ Back to [top](#top)
 |Name|Rule|
 |----|----|
 |Reverse|Swap the direction the game is going|
-|Running Man|The picker must run to the nearest intersection and get back before their next turn|
+|Running Man|The picker must get to the nearest intersection and back before their next turn|
 
 Back to [top](#top)
 
@@ -193,12 +184,12 @@ Back to [top](#top)
 |----|----|
 |Santa|The picker is Santa, grab every other player a new drink from the fridge/their boxes|
 |Scar Story|The picker must tell the story of a scar. If they refuse to, or have told the story before, they must drink twice|
+|Sharing Is Caring|You have three drinks to give to the crowd. You can split up the distribution how you please|
 |Single|Those who are not in a committed relationship must drink|
-|Sneaky Blinders|The pickers wears and alcohol box on their head until the game ends or someone else pulls this piece|
+|Sneaky Blinders|The pickers wears an alcohol box on their head until the game ends or someone else pulls this piece|
 |South Paw|The picker must take a piece after every subsequent player goes, until the beginning of their next turn|
 |Strip|The picker must remove one article of clothing or drink three times|
-|Stumper|The person who pulled this piece must use a word in a sentence no one else knows the meaning to, or drink three|
-|Sue Rule|The picker must drink once for every word they speak for the remainder of the game|
+|Stumper|The person who pulled this piece must use a word in a sentence no one else knows the meaning to. If someone knows then the picker drinks three times|
 |Same Gender|Anyone who identifies as the pickers gender drinks once|
 |Socialite|Everyone votes on the most extroverted person playing. The person chosen must drink twice|
 
@@ -222,7 +213,15 @@ Back to [top](#top)
 ### V
 |Name|Rule|
 |----|----|
-|Visitation Rights|All those visiting the address the party is hosted at drink three times|
+|Visitation Rights|All those visiting the address the party is hosted at drink twice|
+
+Back to [top](#top)
+
+---
+### U
+|Name|Rule|
+|----|----|
+|Uber|All players with a full licence must drink once|
 
 Back to [top](#top)
 
@@ -230,7 +229,6 @@ Back to [top](#top)
 ### W
 |Name|Rule|
 |----|----|
-|Wasd|Gamers drink|
 |Waterfall|The player after the picker stops drinking when the picker stops drink, and the following player stops when they stop etc.|
 |Wonder Twins|The person who pulled this piece gets to choose another person to drink whenever they do for the remainder of the game|
 |Woozy|The pickers must guess the number of players currently playing; without checking; and drink the number of player's they were off by|
