@@ -21,7 +21,6 @@ Chef = "Those who cooked a meal tonight drink once"
 "Drink 1" = "You must drink once"
 "Drink 2" = "You must drink twice"
 "Drink 3" = "You must drink three times"
-"Driver's ed" = "Players without their full license must drink"
 Finish = "The person who pulled this must complete their drink before it is their turn again"
 Gambler = "The picker tells the previous player if they think the next player will choose an outside or inside piece (in confidence). If they are wrong, the picker drinks. If they are correct, the next player drinks on top of their new piece"
 "Govt employee" = "Anyone who can't work from home must drink once"
@@ -60,7 +59,6 @@ Toast = "Make a toast and then everyone drinks once"
 Touchy = "The picker must take the first piece they touch on every subsequent turn"
 "Try hards" = "First visitor to arrive a the party drinks three times"
 "Visitation rights" = "All those visiting the address the party is hosted at drink twice"
-Uber = "All players with a full licence must drink once"
 Waterfall = "The player after the picker stops drinking when the picker stops drink, and the following player stops when they stop etc."
 "Wonder twins" = "The person who pulled this piece gets to choose another person to drink whenever they do for the remainder of the game"
 Woozy = "The pickers must guess the number of players currently playing; without checking; and drink the number of player's they were off by"
@@ -69,7 +67,9 @@ Younger = "Everyone younger than the person who pulled this piece must drink onc
 
 [rules.cars]
 Automatic = "Those who drive an automatic vehicle must drink once"
+"Driver's ed" = "Players without their full license must drink"
 Manual = "All players who drive a manual vehicle must drink once"
+Uber = "All players with a full licence must drink once"
 
 [rules.gender]
 "Same gender" = "Anyone who identifies as the pickers gender drinks once"
