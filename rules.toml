@@ -80,6 +80,8 @@ Uber = "All players with a full licence must drink once"
 [rules.height]
 Anton = "Any player taller than the picker must drink"
 Katy = "Any player in the game who is shorter than the picker must drink"
+Tallest = "Tallest player in the game drinks once"
+Shortest = "Shortest player in the game drinks once"
 
 [rules.phones]
 Android = "Those with an android phone drink once"
