@@ -78,7 +78,7 @@ Younger = "Everyone younger than the person who pulled this piece must drink onc
 
 [rules.cars]
 Automatic = "Those who drive an automatic vehicle must drink once"
-"Driver's ed" = "Players without their full license must drink"
+"Drivers ed" = "Players without their full license must drink"
 Manual = "All players who drive a manual vehicle must drink once"
 Uber = "All players with a full licence must drink once"
 

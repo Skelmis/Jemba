@@ -64,7 +64,7 @@ Back to [top](#top)
 |Drink 1|You must drink once|
 |Drink 2|You must drink twice|
 |Drink 3|You must drink three times|
-|Driver'S Ed|Players without their full license must drink|
+|Drivers Ed|Players without their full license must drink|
 |Democracy|Vote as a group on someone to drink four times|
 
 Back to [top](#top)
