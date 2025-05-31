@@ -47,7 +47,7 @@ def generate_index(letters: list[str], *, width: int) -> str:
 def generate_table(data: list[tuple[str, str]]) -> str:
     output = io.StringIO()
     output.write("|Name|Rule|\n|----|----|\n")
-    for k, v in data:
+    for k, v in sorted(data, key=lambda x: x[0]):
         output.write(f"|{k.title()}|{v}|\n")
 
     return output.getvalue()
