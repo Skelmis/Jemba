@@ -1,3 +1,4 @@
+import csv
 import io
 import json
 import tomllib
@@ -52,6 +53,15 @@ def generate_table(data: list[tuple[str, str]]) -> str:
     return output.getvalue()
 
 
+def generate_csv(data: dict[str, list[tuple[str, str]]]) -> None:
+    with open("rules.csv", "w", newline="") as csvfile:
+        writer = csv.writer(csvfile, delimiter=",")
+        writer.writerow(["Name", "Rule"])
+        for value in data.values():
+            for k, v in value:
+                writer.writerow([k, v])
+
+
 def generate_nested_tables():
     file = io.StringIO()
     # with open("jemba_rules.json", "r") as f:
@@ -81,6 +91,8 @@ def generate_nested_tables():
 
     with open("jemba_rules.md", "w") as f:
         f.write(file.getvalue())
+
+    generate_csv(data)
 
     print(
         f"Wrote {len(flattened_raw_data.keys())} rules out. Jemba requires 108 for a full game."
